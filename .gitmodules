@@ -1,0 +1,6 @@
+[submodule "Api/shas_flask"]
+	path = Api/shas_flask
+	url = https://github.com/kevinOcconer/shas.git
+[submodule "MobileAppSourceCode/SHAS"]
+	path = MobileAppSourceCode/SHAS
+	url = https://github.com/kevinOcconer/SHASAndroid.git
