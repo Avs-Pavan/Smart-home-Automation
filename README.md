@@ -1,6 +1,6 @@
 # SHAS
 
-## A smart home automation system with voice control and user authorization
+## A smart home automation system with voice control and person identification
 
 A smart home automation system offers voice control capabilities paired with user authorization for enhanced security. The system is built on a diverse tech stack: Java, Kotlin, and Python provide foundational programming, paired with ReactJs for interface design and Android for mobile integration. Docker ensures scalable deployment, with Kafka managing real-time data streams. Flask supports web functionalities, while libraries like librosa, sklearn, pandas, and numpy assist in voice processing and data handling. At its core, the system uses TensorFlow and Keras with a sequential learning model to efficiently interpret voice commands.
 
