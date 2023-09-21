@@ -16,6 +16,10 @@ A smart home automation system offers voice control capabilities paired with use
 
 &nbsp;
 
+
+## Image architecture
+![alt text](https://github.com/Avs-Pavan/Smart-home-Automation/blob/b5b37312202ebd7a5be50deabd87df840647753e/PHOTO-2023-03-02-17-03-23.jpg)
+
 ## We divided our project into 4 major modules in regards with code.
 
 - Android App - The UI of the application
